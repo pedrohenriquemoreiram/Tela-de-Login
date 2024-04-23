@@ -1,0 +1,66 @@
+body {
+    background-image: url(3422326.jpg);
+    background-position: center;
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 15px; /* Cantos arredondados */
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
+   
+}
+
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 9vh;
+    color: #f2f2f2
+}
+
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: #f2f2f2;
+}
+
+
+
+
+button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 10px; /* Cantos arredondados */
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+}
+
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px; /* Cantos arredondados */
+    border: 1px solid #ccc; /* Borda cinza */
+
+}
+
+
+
+
+
+
+
